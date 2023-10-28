@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.exzo.network/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/ExzoNetwork/"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter",
+          "url": "https://twitter.com/Exzo_Network"
+        },
+        {
+          "text": "Discord",
+          "url": "https://t.me/Exzo_Network/1"
+        }
+      ]
+    },
+    {
+      "title": "About Exzo Network",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://exzo.network"
+        }
+      ]
+    }
+  ]
