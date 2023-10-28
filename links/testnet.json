@@ -15,7 +15,7 @@
 		"title": "EVM Testnet",
 		"url": "https://evm-testnet.exzoscan.io",
 		"group": "Testnets",
-    "isActive": true,
+        "isActive": true,
 		"icon": ""
 	},
   {

@@ -1,0 +1,33 @@
+[
+	{
+		"title": "EVM Mainnet",
+		"url": "https://evm.exzoscan.io",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": ""
+	},
+  {
+		"title": "Native Mainnet",
+		"url": "https://exzoscan.io",
+		"group": "Mainnets",
+		"icon": ""
+	},
+	{
+		"title": "EVM Testnet",
+		"url": "https://evm-testnet.exzoscan.io",
+		"group": "Testnets",
+		"icon": ""
+	},
+  {
+		"title": "Native Testnet",
+		"url": "https://exzoscan.io",
+		"group": "Testnets",
+		"icon": ""
+	},
+  {
+		"title": "Coming soon",
+		"url": "#",
+		"group": "Other",
+		"icon": ""
+	}
+]
