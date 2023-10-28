@@ -3,26 +3,26 @@
 		"title": "EVM Mainnet",
 		"url": "https://evm.exzoscan.io",
 		"group": "Mainnets",
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/topdefi/exzoscan-data/main/logos/favicon.ico"
 	},
   {
 		"title": "Native Mainnet",
 		"url": "https://exzoscan.io",
 		"group": "Mainnets",
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/topdefi/exzoscan-data/main/logos/favicon.ico"
 	},
 	{
 		"title": "EVM Testnet",
 		"url": "https://evm-testnet.exzoscan.io",
 		"group": "Testnets",
         "isActive": true,
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/topdefi/exzoscan-data/main/logos/favicon.ico"
 	},
   {
 		"title": "Native Testnet",
 		"url": "https://exzoscan.io",
 		"group": "Testnets",
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/topdefi/exzoscan-data/main/logos/favicon.ico"
 	},
   {
 		"title": "Coming soon",
