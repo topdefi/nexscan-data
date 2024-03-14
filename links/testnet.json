@@ -23,11 +23,5 @@
 		"url": "https://nexscan.io",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
-	},
-  {
-		"title": "Coming soon",
-		"url": "#",
-		"group": "Other",
-		"icon": ""
 	}
 ]
